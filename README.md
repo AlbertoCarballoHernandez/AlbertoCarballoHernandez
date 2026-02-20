@@ -1,59 +1,122 @@
-# About Me 
+<h1 align="center">👋 Alberto Carballo Hernández</h1>
+<h3 align="center">💻 Desarrollador de Software</h3>
 
-💻 **Multiplatform Application Development student (DAM)**  
-🎓 **Cambridge English Qualifications: B1 & B2**  
-📍 **Studying at:** IES Telesforo Bravo (2025–2026)
+<p align="center">
+  <img src="images/perfil.jpg" width=300 />
+</p> 
 
----
+<p align="center">
+🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover
+</p>
 
-## 👋 Hi there!
-
-I'm **Alberto**, a DAM student who is learning and continuously improving my programming skills.  
-I enjoy transforming ideas into functional applications and exploring new technologies as I grow as a developer.
-
----
-
-## 🚀 Interests & Hobbies
-
-In my free time, I enjoy:
-- 🎮 Playing video games  
-- 📚 Reading  
-- 🎵 Listening to and playing music  
-- 🎬 Watching series and movies  
-
-I also love learning new things, as it allows me to gain new experiences and expand my knowledge.
-
----
-
-## 🛠️ Technologies
-
-### I'm currently learning to use:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+<p align="center">
+  <a href="https://linkedin.com/in/TU_PERFIL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:albertocarballohernandez@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AlbertoCarballoHernandez">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### Other tools and technologies I'm familiar with:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" alt="GIMP" width="45" height="45"/>
+## 🧠 Sobre mí
+
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado por crear software útil, eficiente y bien diseñado.
+
+- 🚀 Interés en desarrollo Full Stack  
+- 📱 Desarrollo Android con Java  
+- ⚙️ APIs REST con Java / Spring  
+- 🌍 Trabajo con metodologías ágiles  
+- 📚 Aprendizaje continuo  
+
+---
+
+## ⭐ Proyectos Destacados
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 📱 App Android  
+Java · Android Studio  
+
+Aplicación móvil desarrollada en Android para gestión de tareas.
+
+➡️ [Ver repositorio](https://github.com/juanespana/PROYECTO_ANDROID)
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔗 API REST  
+Java · Spring · Maven  
+
+Backend REST para gestión de datos y servicios.
+
+➡️ [Ver repositorio](https://github.com/juanespana/API_REST)
+
+</td>
+
+<td width="33%" align="center">
+
+### 📊 Dashboard Web  
+React / Web  
+
+Panel interactivo de visualización de datos.
+
+➡️ [Ver repositorio](https://github.com/juanespana/DASHBOARD)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🧰 Tecnologías y herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,maven,sqlite,git,github,html,css,js" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
-- Programming fundamentals  
-- Application development  
-- Problem-solving and logical thinking  
+## 🧩 Metodologías ágiles
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kanban-FF8C00?style=for-the-badge"/>
+</p>
 
 ---
 
-Thanks for visiting my profile!
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlbertoCarballoHernandez&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoCarballoHernandez&layout=compact" />
+</p>
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+
+💼 LinkedIn — https://linkedin.com/in/TU_PERFIL  
+📧 Email — TU_EMAIL  
+🌐 Portfolio — https://TU_WEB  
+
+</p>
+
+---
+
+<p align="center">
+⭐ Gracias por visitar mi perfil — github.com/juanespana
+</p>
