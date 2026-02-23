@@ -96,15 +96,6 @@ Panel interactivo de visualización de datos.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albertocarher&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertocarher&layout=compact" />
-</p>
-
----
-
 ## 📫 Contacto
 
 <p align="center">
