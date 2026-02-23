@@ -81,7 +81,7 @@ Panel interactivo de visualización de datos.
 ## 🧰 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,maven,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,maven,git,github,html,css,js" />
 </p>
 
 ---
