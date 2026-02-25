@@ -100,7 +100,7 @@ Panel interactivo de visualización de datos.
 
 
 <a href="https://git.io/streak-stats">
-<img align="center" src="https://streak-stats.demolab.com?user=albertocarher&theme=merko&locale=es" alt="GitHub Streak" />
+<img align-content="center" src="https://streak-stats.demolab.com?user=albertocarher&theme=merko&locale=es" alt="GitHub Streak" />
 </a>
 
 
