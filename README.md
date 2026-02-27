@@ -1,9 +1,9 @@
+<p align="center">
+  <img src="images/Portada.png" width=800 />
+</p> 
+
 <h1 align="center">👋 Alberto Carballo Hernández</h1>
 <h3 align="center">💻 Desarrollador de Software</h3>
-
-<p align="center">
-  <img src="images/Portada.png" width=600 />
-</p> 
 
 <p align="center">
 🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover
